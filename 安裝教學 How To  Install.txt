@@ -1,0 +1,35 @@
+ ----------- 安裝教學 -----------
+
+   請先斷開電腦網路  警告!!重要!!
+
+1- 打開資料夾(1)>Setup Installer>找到Setup.exe並且安裝
+2- 斷網狀態下找到Serial Number.txt檔案>輸入序號安裝>並加入規則
+3- 主程式安裝完畢後先不開啟>安裝資料夾(2)的更新檔SP2
+4- SP2安裝完畢後再安裝SP3更新檔
+5- 以上步驟做完即完成VideoStudio Ultimate.2018.21.2.0.x64的安裝。
+
+https://alternativeto.net
+
+
+
+www.youtube.com/watch?v=26XUy9A2lUE
+ -------  How To  Install? --------
+
+
+1- Open [Setup.exe] and install the software.
+2- Turn off Internet connection and run the program.
+3- Use Username/Serial Number for activation.
+4- Install Upfate [Update SP2.exe].
+5- That's all. Enjoy the final full version.
+
+
+All By PAIXIN
+2018/09/05
+VU21R96-WDFRY79-XSSMG37-T28FBWG
+
+假蚾佽隴ㄩ
+
+
+名蚚誧靡備: Softasm.com
+
+name撈岆唗蹈瘍狟ㄩVU21R96-WDFRY79-XSSMG37-T28FBWG
